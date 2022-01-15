@@ -1,0 +1,17 @@
+C:\Users\Firmansyah\AppData\Local\Temporary Projects\PPDB Wikrama\bin\Debug\PPDB Wikrama.exe
+C:\Users\Firmansyah\AppData\Local\Temporary Projects\PPDB Wikrama\bin\Debug\PPDB Wikrama.pdb
+C:\Users\Firmansyah\AppData\Local\Temporary Projects\PPDB Wikrama\obj\x86\Debug\PPDB_Wikrama.Form1.resources
+C:\Users\Firmansyah\AppData\Local\Temporary Projects\PPDB Wikrama\obj\x86\Debug\PPDB_Wikrama.Properties.Resources.resources
+C:\Users\Firmansyah\AppData\Local\Temporary Projects\PPDB Wikrama\obj\x86\Debug\PPDB Wikrama.csproj.GenerateResource.Cache
+C:\Users\Firmansyah\AppData\Local\Temporary Projects\PPDB Wikrama\obj\x86\Debug\PPDB Wikrama.exe
+C:\Users\Firmansyah\AppData\Local\Temporary Projects\PPDB Wikrama\obj\x86\Debug\PPDB Wikrama.pdb
+C:\Users\Firmansyah\documents\visual studio 2010\Projects\PPDB Wikrama\PPDB Wikrama\obj\x86\Debug\PPDB Wikrama.exe
+C:\Users\Firmansyah\documents\visual studio 2010\Projects\PPDB Wikrama\PPDB Wikrama\obj\x86\Debug\PPDB Wikrama.pdb
+C:\Users\Firmansyah\documents\visual studio 2010\Projects\PPDB Wikrama\PPDB Wikrama\bin\Debug\PPDB Wikrama.exe
+C:\Users\Firmansyah\documents\visual studio 2010\Projects\PPDB Wikrama\PPDB Wikrama\bin\Debug\PPDB Wikrama.pdb
+C:\Users\Firmansyah\documents\visual studio 2010\Projects\PPDB Wikrama\PPDB Wikrama\obj\x86\Debug\PPDB_Wikrama.Form1.resources
+C:\Users\Firmansyah\documents\visual studio 2010\Projects\PPDB Wikrama\PPDB Wikrama\obj\x86\Debug\PPDB_Wikrama.Properties.Resources.resources
+C:\Users\Firmansyah\documents\visual studio 2010\Projects\PPDB Wikrama\PPDB Wikrama\obj\x86\Debug\PPDB Wikrama.csproj.GenerateResource.Cache
+C:\Users\Firmansyah\documents\visual studio 2010\Projects\PPDB Wikrama\PPDB Wikrama\obj\x86\Debug\PPDB_Wikrama.Form2.resources
+C:\Users\Firmansyah\Documents\Visual Studio 2010\Projects\PPDB Wikrama\PPDB Wikrama\obj\x86\Debug\PPDB Wikrama.csprojResolveAssemblyReference.cache
+C:\Users\Firmansyah\Documents\Visual Studio 2010\Projects\PPDB Wikrama\PPDB Wikrama\obj\x86\Debug\PPDB_Wikrama.Form3.resources
